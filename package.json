@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "expo": "~37.0.3",
+    "expo-cli": "^3.20.9",
     "expo-updates": "~0.2.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
