@@ -8,7 +8,9 @@ const BrandSectionDetail = () => {
     return (
         <View>
             <Text> Brand Products </Text>
-        <ProductFeed product_list={}/>
+        <ProductFeed 
+        product_list={brand_products}
+        />
         </View>
     )
 }
