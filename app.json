@@ -1,0 +1,17 @@
+{
+  "name": "Libpro",
+  "displayName": "Libpro",
+  "expo": {
+    "name": "Libpro",
+    "slug": "Libpro",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
